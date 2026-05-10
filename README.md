@@ -23,7 +23,7 @@ Provision and harden a Linux server to Meta's 'Secure by Default' standard, demo
 
 ## Day 4: Git Identity Management & RBAC Resolution
 - Diagnosed `401 Unauthorized` by auditing `git remote -v` output
-- from `se777lim` to owned repo `almusallisalim-tech`
+- Rotated remote endpoint from `se777lim` to owned repo `almusallisalim-tech`
 - Implemented PAT authentication with `repo` scope following Least Privilege
 - Rewrote Git history using `git rebase -i --root` to align with corporate identity
 - Skills: `GitOps`, `Identity Management`, `Security Debugging`, `PAT`, `RBAC`, `Zero Trust`
