@@ -37,4 +37,4 @@ Provision and harden a Linux server to Meta's 'Secure by Default' standard, demo
 ## Key Takeaway
 This lab proves ability to secure, troubleshoot, and document Linux systems to production standards used at Meta's 200k+ host fleet.
 
-**Status:** Day 5 Complete. Ready for Docker containerization.
+docs: complete Day 5 Ansible IaC with production debugging
