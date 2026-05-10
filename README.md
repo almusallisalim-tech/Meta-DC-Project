@@ -20,8 +20,15 @@ Provision and harden a Linux server to Meta's 'Secure by Default' standard, demo
 - Initialized Git repository and version controlled all artifacts
 - Authored professional documentation for audit trail
 - Skills: `Git`, `Version Control`, `Technical Writing`
+## Day 4: Git Identity Management & RBAC Resolution
+
+- Diagnosed `401 Unauthorized` by auditing `git remote -v` output
+- **Rotated remote endpoint** from `se777lim` to owned repo `almusallisalim-tech`
+- **Implemented PAT authentication** with `repo` scope following Least Privilege
+- Rewrote Git history using `git rebase -i --root` to align with corporate identity
+- Skills: `GitOps`, `Identity Management`, `Security Debugging`, `PAT`, `RBAC`, `Zero Trust`
 
 ## Key Takeaway
 This lab proves ability to secure, troubleshoot, and document Linux systems to production standards used at Meta's 200k+ host fleet.
 
-**Status:** Day 3 Complete. Ready for GitHub deployment.
+**Status:** Day 4 Complete. Ready for GitHub deployment.
